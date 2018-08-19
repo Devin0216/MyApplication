@@ -6,4 +6,5 @@ package com.example.zhangdianwei.myapplication;
 
 public class NewClassFromWindows {
     private String id;
+    private String id2;
 }
