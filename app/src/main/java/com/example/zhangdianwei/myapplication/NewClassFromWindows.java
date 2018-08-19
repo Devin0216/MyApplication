@@ -9,5 +9,5 @@ public class NewClassFromWindows {
     private String id2;
     private String id3;
     private String id4;
-    private String id5;
+    private String id5;//for request merger
 }
